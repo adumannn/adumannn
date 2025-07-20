@@ -13,6 +13,6 @@ duman = {
   "education": "NYU Shanghai",
   "languages": ["Python", "C++", "JavaScript",]
 }
+
 <img src="https://raw.githubusercontent.com/adumannn/adumannn/output/snake.svg" alt="Snake animation" />
 
-###
