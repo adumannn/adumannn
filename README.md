@@ -6,7 +6,7 @@
 duman = {
   "location": "Kazakhstan",
   "education": "NYU Shanghai",
-  "languages": ["Python", "C++", "JavaScript",]
+  "languages": ["Python", "C++"]
 }
 ```
 <img src="https://raw.githubusercontent.com/adumannn/adumannn/output/snake.svg" alt="Snake animation" />
