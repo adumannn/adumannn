@@ -5,9 +5,9 @@
 ```python
 duman = {
   "location": "Kazakhstan",
-  "education": "NYU Shanghai",
-  "languages": ["Python", "C++"]
-  "frameworks": ["Next.js", "React", "Node.js"]
+  "education": " cs @ NYU Shanghai",
+  "languages": ["Python", "C++", "TypeScript", "JavaScript"]
+  "frameworks": ["Next.js", "React", "Node.js", "PyTorch"]
   "tools": ["Git", "Docker", "Figma", "Vercel"]
 }
 ```
