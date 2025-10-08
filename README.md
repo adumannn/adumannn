@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Duman Abdurakhmanuly</h1>
 <h2 align="left">cs @ NYU Shanghai</h2>
 
-<h3 align=left href="https://www.linkedin.com/in/dumanabd/">Linkedin</h3>
+<a align=left href="https://www.linkedin.com/in/dumanabd/">Linkedin</a>
 
 ```python
 duman = {
