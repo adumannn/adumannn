@@ -5,7 +5,7 @@
 
 ```python
 duman = {
-  "location": "Kazakhstan",
+  "location": "Shanghai, CN",
   "education": " cs @ NYU Shanghai",
   "languages": ["Python", "C++", "TypeScript", "JavaScript"]
   "frameworks": ["Next.js", "React", "Node.js", "PyTorch"]
