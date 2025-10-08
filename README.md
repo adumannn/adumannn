@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Duman Abdurakhmanuly</h1>
-<h3 align="center">CS @ NYU Shanghai</h3>
+<h1 align="left">Hi 👋, I'm Duman Abdurakhmanuly</h1>
+<h3 align="center">cs @ NYU Shanghai</h3>
 
 
 ```python
